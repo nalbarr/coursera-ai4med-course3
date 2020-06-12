@@ -10,7 +10,6 @@ coursera-ai4med-course3
 - Interpreting ML models for Treatment Effect Estimation
 ### Notebooks
 - [week1a](week1/AI4M_C3_M1_lecture_nb_pandas.ipynb)
-Lesson_EHR_Data_Security_and_Analysis_Screencast.ipynb)
   - i.e., pandas refresher, slicing, read/update rows, read/update columns 
 - [week1b](week1/AI4M_C3_M1_lecture_nb_sklearn.ipynb)
   - i.e., train/test split, simple model learn/fit/evaluate
@@ -25,10 +24,10 @@ Lesson_EHR_Data_Security_and_Analysis_Screencast.ipynb)
 
 ### References
 - [RCT](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
-Levamisole and fluororacil background: https://www.nejm.org/doi/full/10.1056/NEJM199002083220602
-Data sourced from here: https://www.rdocumentation.org/packages/survival/versions/3.1-8/topics/colon
-C-statistic for benefit: https://www.ncbi.nlm.nih.gov/pubmed/29132832
-T-learner: https://arxiv.org/pdf/1706.03461.pdf
+- Levamisole and fluororacil background: https://www.nejm.org/doi/full/10.1056/NEJM199002083220602
+- Data sourced from here: https://www.rdocumentation.org/packages/survival/versions/3.1-8/topics/colon
+- C-statistic for benefit: https://www.ncbi.nlm.nih.gov/pubmed/29132832
+- T-learner: https://arxiv.org/pdf/1706.03461.pdf
 
 ## Week 2
 ### Key Concepts
@@ -41,9 +40,9 @@ T-learner: https://arxiv.org/pdf/1706.03461.pdf
 - [BERT paper (Google, 2018)](https://arxiv.org/abs/1810.04805)
 - [BERT Github](https://github.com/google-research/bert)
 - [NegBio](https://github.com/ncbi-nlp/NegBio)
-Grad cam: https://arxiv.org/pdf/1610.02391.pdf
-Random forests + permutation importance: https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf (R45f14345c000-1 Breiman, “Random Forests”, Machine Learning, 45(1), 5-32, 2001.)
-Shapley importance: https://www.nature.com/articles/s42256-019-0138-9
+- [Grad cam])https://arxiv.org/pdf/1610.02391.pdf)
+- Random forests + permutation importance: https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf (R45f14345c000-1 Breiman, “Random Forests”, Machine Learning, 45(1), 5-32, 2001.)
+- Shapley importance: https://www.nature.com/articles/s42256-019-0138-9
 
 ## Week 3
 ### Key Concepts
@@ -60,8 +59,8 @@ Shapley importance: https://www.nature.com/articles/s42256-019-0138-9
   - i.e., pandas groupby()
 
 ### All References
-[Labeling methods and dataset](https://arxiv.org/abs/1901.07031)
-[Huggingface transformers library](https://github.com/huggingface/transformers)
-[BERT paper](https://arxiv.org/abs/1810.04805)
-[Question answering data set (used for example)](https://rajpurkar.github.io/SQuAD-explorer/)
-[Clinical note example for question answering](https://www.mtsamples.com/)
+- [Labeling methods and dataset](https://arxiv.org/abs/1901.07031)
+- [Huggingface transformers library](https://github.com/huggingface/transformers)
+- [BERT paper](https://arxiv.org/abs/1810.04805)
+- [Question answering data set (used for example)](https://rajpurkar.github.io/SQuAD-explorer/)
+- [Clinical note example for question answering](https://www.mtsamples.com/)
