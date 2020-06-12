@@ -1,6 +1,10 @@
 # coursera-ai4med-course3
 coursera-ai4med-course3
 
+## TODOs
+- Fix links
+- Ensure large files are available for notebooks
+
 ## Week 1
 
 ### Key Concepts
